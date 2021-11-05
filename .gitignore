@@ -2,4 +2,8 @@
 *.dill
 *.csv
 *.lda
+*.png
+*.jpg
+__pycache__
+.DS_Store
 
