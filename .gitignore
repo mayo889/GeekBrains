@@ -5,6 +5,8 @@
 *.lda
 *.png
 *.jpg
+*.zip
+*.rar
 __pycache__
 .DS_Store
 
