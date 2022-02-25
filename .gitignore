@@ -5,6 +5,7 @@
 *.lda
 *.png
 *.jpg
+*.gif
 *.zip
 *.rar
 __pycache__
